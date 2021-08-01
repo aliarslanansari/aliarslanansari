@@ -4,7 +4,7 @@
 
 [![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aliarslanansari)
 
-[![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico&logoColor=whit)](https://instagram.com/aliarslanansari)
+[![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliarslanansari)
 
 <!--
 **aliarslanansari/aliarslanansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
