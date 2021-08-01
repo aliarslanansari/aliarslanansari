@@ -3,6 +3,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliarslanansari)](#)
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/aliarslanansari.svg?style=social&label=Follow%20%20aliarslanansari)](https://twitter.com/aliarslanansari)
+
+[![Instagram URL](https://img.shields.io/?style=social&label=Follow%20%20aliarslanansari&logo=https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico)](https://instagram.com/aliarslanansari)
+
 <!--
 **aliarslanansari/aliarslanansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
