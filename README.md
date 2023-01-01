@@ -2,7 +2,7 @@
 
 Work Github: [Relevel](https://github.com/ali-relevel)
 
-Looking for SD2/Senior - Frontend Roles
+Looking for SDE - Frontend Role
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliarslanansari)](#) -->
 
