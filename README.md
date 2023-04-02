@@ -1,10 +1,10 @@
 ### Hi there  👋    
 
-Work Github: [Relevel](https://github.com/ali-relevel)
+Senior Software Engineer - Blockbrew Engineering
 
-Looking for SDE - Frontend Role
+Past Work Github: [Relevel](https://github.com/ali-relevel)
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliarslanansari)](#) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliarslanansari)](#)
 
 [![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aliarslanansari)  [![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliarslanansari)  <a href="https://www.linkedin.com/in/aliarsalanansari/" target="_blank">![Instagram URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!--
