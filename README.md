@@ -2,7 +2,7 @@
 
 Senior Software Engineer - Blockbrew Engineering
 
-Past Work Github: [Relevel by Unacademy]([https://github.com/ali-relevel](https://github.com/ali-relevel?tab=overview&from=2021-09-01&to=2022-12-31]))
+Past Work Github: [Relevel by Unacademy](https://github.com/ali-relevel](https://github.com/ali-relevel?tab=overview&from=2021-09-01&to=2022-12-31)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliarslanansari)](#) -->
 
